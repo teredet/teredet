@@ -1,7 +1,7 @@
 # Hello there 👋, I'm Artem Vanzytler - @teredet
 
 - 🎓 Now I am studying at NAU in Kyiv. In the direction of Computer Science.
-- 👨‍🏫 I teach Python, Django and Linux.
+- 👨‍🏫 I am learning Python, Django and Linux.
 
 
 **Get in touch:**
