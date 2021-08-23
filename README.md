@@ -15,12 +15,14 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/teredet">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-axpwmfcg3.vercel.app/api?username=teredet&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=dark" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-axpwmfcg3.vercel.app/api?username=teredet&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/teredet">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=teredet&layout=compact&theme=dark" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teredet&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
+
 
 
 ## 💼 Skills
@@ -33,6 +35,7 @@
 
 <br>
 
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
