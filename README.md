@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-teredet-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artem-vanzytler/)](https://www.linkedin.com/in/artem-vanzytler/) 
 [![Github Badge](https://img.shields.io/badge/-teredet-grey?style=flat&logo=github&logoColor=white&link=https://github.com/teredet/)](https://www.github.com/teredet/) 
 
-
+My site: <a target="_blank" href="http://teredet.pythonanywhere.com/">teredet.pythonanywhere.com</a>
 
 
 ## &#x1f4c8; GitHub Stats
